@@ -16,6 +16,7 @@ My very first challenge is to complete a living dex across all of the game sets/
 - Let's Go Pikachu or Let's Go Eevee
 - Sword or Shield
 - Brilliant Diamond or Shining Pearl
+
 *Note: I have no intention of buying Sun and Moon, and as such Ultra Sun and Ultra Moon will suffice
 ### The Living Dex - Per Game
 My second challenge will be going back and compiling a living dex on each and every cartridge from Gen 1 onward.
