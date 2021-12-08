@@ -1,8 +1,8 @@
-#Pokemon Red Playthrough Journal
+# Pokemon Red Playthrough Journal
 **Start Date:** 12/7/2021  
 **Current Goal:** Completed Pokédex  
 **Status:** In Progress  
-##Entry 1 - 12/7/2021
+## Entry 1 - 12/7/2021
 Today I started my new save on Pokémon Red. I ordered Red, Blue, and Yellow from eBay and have verified they're genuine, so I'm excited to start this journey on the physical carts using original hardware. The initial goal is going to simply be to complete the Pokédex, and once complete I'll build out the living dex for this cartridge.
 
 I'll be uploading the living dex entries as I grab them, ideally at the end of each day. This may mean some anomalies, such as Kakuna being uploaded but not Weedle, but I'll go back and fill those out as I go. In the end I'll set the End Date once the living dex is complete, both in the PC repository and in the in-game PC system.
